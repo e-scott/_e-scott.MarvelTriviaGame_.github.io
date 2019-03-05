@@ -1,0 +1,54 @@
+body{
+    background: url(../images/Marvel-Cinematic.jpg)no-repeat center center fixed;
+    height: auto;
+    background-size: cover;
+    font-family: fantasy, Helvetica, Arial, Impact, Haettenschweiler, 'Arial Narrow Bold',   sans-serif;
+}
+
+header{
+    margin-top: 20px;
+}
+
+
+
+.container{
+    text-align: center;
+    background: rgba(255,255,255, 0.7);
+    border: outset 5px white;
+    color: red;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-shadow: 2px 1px gray;
+}
+
+.space-btn{
+    margin-top: 5px;
+    width: 30%;
+    display:block;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Helvetica, Arial, 'Times New Roman', Times, serif,  sans-serif;
+}
+
+#start{
+    width: 200px;
+    height: 50px;
+    margin-top: 120px;
+    border: outset 5px lightgray;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.f{
+    text-decoration: underline;
+    letter-spacing: 2px;
+    font-size: 27px;
+    font-style: bold;
+}
+
+.b-btn{
+    border: outset 5px lightgray;
+    letter-spacing: 2px;
+}
+
