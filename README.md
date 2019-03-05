@@ -1,6 +1,6 @@
 # _e-scott.MarvelTriviaGame_.github.io
 
-This was created to challenge me to testing what I have learned of javascript and jquery so far.
+This was created to challenge and test what I have learned of javascript and jquery so far.
 
 You have 15 questions that are Marvel themed. You have 15 seconds to answer a question.
 If you get the answer right you get a 5 second message that says great job, then the next question comes up.
